@@ -1,0 +1,19 @@
+{
+    "token": "ODAyMjk2MjU1NTc2OTMyMzUy.YAtKnQ.jUICFqksKCdHmNYSbTz_zgo6VIg",
+    "prefix": ".",
+    "genChannel": "951272874486927430",
+    "KeygenChannel": "951272874486927430",
+    "KeyredeemChannel": "951272874486927430",
+    "CheckExpireChannel": "951272874486927430",
+    "ServerId": "930140302986072134",
+    "genRole": "937415842851881021",
+    "customerRole": "937415842851881021",
+    "genCooldown": "86400000",
+    "genCountToCoolDown": "5",
+    "color": {
+        "green": "0x43B581",
+        "yellow": "0xFAA61A",
+        "red": "0xF04747",
+        "default": "0x7289DA"
+    }
+}
